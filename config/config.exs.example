@@ -1,0 +1,4 @@
+use Mix.Config
+
+config :elixir_coach, ElixirCoach.Slack,
+  slack_token: "my_bot_secret_token"
